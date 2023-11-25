@@ -1,6 +1,5 @@
 # Gomycode-Workshop
-# Gomycode-Workshop
-Web Development Workshop - Login Page Creation
+## Web Development Workshop - Login Page Creation
 Overview
 
 This repository contains the files used in a hands-on workshop designed to introduce participants to web development basics. The focus of the workshop was on creating a simple login page using HTML, CSS, and JavaScript.
